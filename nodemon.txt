@@ -1,0 +1,7 @@
+// Put this in package.json file to ignore a folder
+
+"nodemonConfig": {
+    "ignore": [
+      "frontend/*"
+    ]
+  },
